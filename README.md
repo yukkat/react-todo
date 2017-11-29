@@ -1,1 +1,1 @@
-React-todo app
+See demo on the http://yukkat.github.io/react-todo
