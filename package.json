@@ -2,6 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yukkat.github.io/react-todo-demo/",
   "dependencies": {
     "lodash": "^4.17.4",
     "material-ui": "^0.19.4",
